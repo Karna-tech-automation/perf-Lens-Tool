@@ -1,4 +1,4 @@
-# Perf-Trace-Pulse
+# Perf-Trace-Lens
 
 An open-source-inspired browser performance recorder that captures web performance metrics, analyzes traces, and generates downloadable reports.
 
